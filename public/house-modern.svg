@@ -1,0 +1,7 @@
+<svg viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 100L100 50L160 100V170H40V100Z" fill="#10b981" opacity="0.1"/>
+  <path d="M40 100L100 50L160 100V170H40V100Z" stroke="#10b981" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="70" y="120" width="25" height="50" fill="#2563eb" opacity="0.2"/>
+  <rect x="105" y="120" width="25" height="50" fill="#2563eb" opacity="0.2"/>
+  <rect x="135" y="105" width="20" height="20" fill="#10b981" opacity="0.3"/>
+</svg>
